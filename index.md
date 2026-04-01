@@ -25,9 +25,9 @@ JamBook downloads song sheet PDF files and metadata from a shared Google Drive f
 JamBook uses the following Firebase services:
 
 - **Firebase Authentication** — To manage sign-in with Google, Apple, or anonymous (guest) accounts
-- **Cloud Firestore** — To check whether a signed-in user is authorized to access the full song library
+- **Cloud Firestore** — To store user preferences and manage user accounts
 
-No personal data is stored in Firestore beyond what is needed for authorization (email address).
+No personal data beyond your email address is stored in Firestore.
 
 ## Local Data Storage
 
@@ -49,7 +49,7 @@ JamBook does not share any personal data with third parties. The only external c
 
 - Google Drive API (to download song files)
 - Firebase Authentication (to verify sign-in)
-- Firebase Firestore (to check authorization)
+- Firebase Firestore (to manage user accounts)
 - YouTube (to load video thumbnails when links are present in song metadata)
 
 ## Children's Privacy
