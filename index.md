@@ -66,4 +66,4 @@ Any changes to this privacy policy will be posted on this page with an updated d
 
 ## Contact
 
-If you have questions about this privacy policy, please contact: johnhanna99@gmail.com
+If you have questions about this privacy policy, please contact: johnhanna.dev@gmail.com
